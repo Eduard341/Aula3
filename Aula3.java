@@ -10,7 +10,7 @@ public class Aula3 {
               System.out.println("produto 101: " + produtos.get(key: 101);
               System.out.println("produto 102: " + produto.get(key: 102));
               System.out.println("Produto: " + produtos.get (key: 102));
-              System.out.println("produto 103: " + produtos.get(ket: 103));
+              System.out.println("produto 103: " + produtos.get(key: 103));
         }
 
     }
